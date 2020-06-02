@@ -1,0 +1,10 @@
+TestContact:
+  test_add_contact_001:
+    contact_text: "xiaoming"
+    phone: 15549080517
+  test_add_contact_002:
+    contact_text: "xiaohong"
+    phone: 18071102549
+  test_add_contact_003:
+    contact_text: "zhangsan"
+    phone: 13645897995
