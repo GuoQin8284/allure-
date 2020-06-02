@@ -34,3 +34,4 @@ class TestContact():
         self.page_add_contact.press_keyCode(4)
         assert contact_text == self.saveContact.get_contact_tittl()
         assert phone == self.saveContact.get_contact_phone()
+        assert 1
